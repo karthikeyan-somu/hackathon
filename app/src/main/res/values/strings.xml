@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hackathon</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_secondactivity">secondactivity</string>
+    <string name="title_activity_the_task">TheTask</string>
+    <string name="title_activity_task">Task</string>
+</resources>
